@@ -1,4 +1,4 @@
-# Reciando a Interface do Netflix :computer::clapper:
+# Recriando a Interface do Netflix :computer::clapper:
 
 
 
